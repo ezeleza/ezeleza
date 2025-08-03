@@ -1,23 +1,23 @@
 # 👋 Hello, I’m Ezedin Abdu (`@ezeleza`)
 
-🔁 Turning ideas into income | AI enthusiast | No-code problem solver
+I’m a passionate AI enthusiast and no-code innovator dedicated to turning ideas into practical solutions. With a strong focus on vibe coding and automation, I build impactful applications that solve real-world problems — all while continuously learning and experimenting with the latest tech.
 
 ---
 
-## 🚀 Projects in Progress
+## 🚀 Current Projects
 
 - 🤖 **AI Trade Flip Tracker**  
-  Real-time crypto strategy tracker with automated alerts using Gemini, ChatGPT, and TradingView.
+  Developing a real-time strategy tracker that combines Gemini AI, ChatGPT, and TradingView to deliver automated alerts and insights.
 
-- 🧩 **No-Code App for Local Problems**  
-  Built using Vibe Coding and Bolt.AI — solving real-world problems without writing complex code.
+- 🧩 **No-Code App for Local Challenges**  
+  Creating user-friendly applications with Vibe Coding and Bolt.AI to solve problems efficiently without complex code.
 
-- 🧠 **Prompt Stack Builder** *(Coming Soon)*  
-  Integrating Gemini + Cursor + CloudE.ai to generate high-value results with minimal effort.
+- 🧠 **Prompt Stack Builder** *(Upcoming)*  
+  Integrating advanced AI tools like Gemini, Cursor, and CloudE.ai for streamlined, high-value prompt generation workflows.
 
 ---
 
-## 🛠️ Tools, Skills & Superpowers
+## 🛠️ Skills & Technologies
 
 [![Vibe Coding](https://img.shields.io/badge/Vibe%20Coding-NoCode-blue)](https://vibecoding.com)  
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-green?logo=openai)](https://chat.openai.com)  
@@ -32,18 +32,33 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezeleza&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ezeleza&layout=compact&theme=radical)
 
 ---
 
-## 🧭 Vision & Beliefs
+## 🌟 What Drives Me
 
-> _"Think differently, solve creatively."_  
-> I use smart tools to multiply time, automate boring work, and build real value that brings freedom and impact.
-
-🌍 Based in Jeddah | Dreaming global | Building with logic + emotion.
+> *"Think differently, solve creatively."*  
+> I believe in leveraging smart tools to automate repetitive work and amplify productivity — so I can focus on building meaningful projects that make an impact.
 
 ---
+
+## 🌍 About Me
+
+- Based in Jeddah, Saudi Arabia  
+- Forever curious about AI, automation, and how tech can improve everyday life  
+- Lifelong learner committed to growing my skills and sharing knowledge  
+- Focused on creating efficient, accessible solutions that empower others
+
+---
+
+## 📫 How to Reach Me
+
+I’m currently focused on building and learning, so I keep my contact info private — but feel free to open issues or discussions on my GitHub repos!
+
+---
+
+*Thanks for stopping by — feel free to explore my projects and reach out if something inspires you!*
