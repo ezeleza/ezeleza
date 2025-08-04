@@ -48,7 +48,7 @@ I’m a passionate AI enthusiast and no-code innovator dedicated to turning idea
 
 ## 🌍 About Me
 
-- Based in Jeddah, Saudi Arabia  
+- Based in addis ababa, ethiopia
 - Forever curious about AI, automation, and how tech can improve everyday life  
 - Lifelong learner committed to growing my skills and sharing knowledge  
 - Focused on creating efficient, accessible solutions that empower others
