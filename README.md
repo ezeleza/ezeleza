@@ -59,6 +59,16 @@ I'm all about **building smart solutions** that save time, increase freedom, and
 
 ---
 
+## ðŸ“« How to Reach Me
+
+Iâ€™m currently focused on building and learning, but feel free to connect with me directly:
+
+- ðŸ’¬ [Telegram: @Ezel_eza](https://t.me/Ezel_eza)
+- ðŸ¦ [Twitter/X: @ezaozaa](https://twitter.com/ezaozaa)
+- ðŸ’» Discord: `ezel0129_17865`
+
+
+
 ### 🌀 Fun Mode: Activated
 
 ```text
