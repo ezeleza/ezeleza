@@ -1,69 +1,68 @@
+<h1 align="center">Hey there, I'm Ezedin 👋</h1>
 
-# ðŸ‘‹ Hello, Iâ€™m Ezedin Abdu (`@ezeleza`)
-
-Iâ€™m a passionate AI enthusiast and no-code innovator dedicated to turning ideas into practical solutions. With a strong focus on vibe coding and automation, I build impactful applications that solve real-world problems â€” all while continuously learning and experimenting with the latest tech.
-
----
-
-## ðŸš€ Current Projects
-
-- ðŸ¤– **AI Trade Flip Tracker**  
-  Developing a real-time strategy tracker that combines Gemini AI, ChatGPT, and TradingView to deliver automated alerts and insights.
-
-- ðŸ§© **No-Code App for Local Challenges**  
-  Creating user-friendly applications with Vibe Coding and Bolt.AI to solve problems efficiently without complex code.
-
-- ðŸ§  **Prompt Stack Builder** *(Upcoming)*  
-  Integrating advanced AI tools like Gemini, Cursor, and CloudE.ai for streamlined, high-value prompt generation workflows.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=16F7FC&center=true&vCenter=true&width=500&lines=No-code+Innovator+%F0%9F%94%A5;AI+Builder+%7C+App+Maker+%7C+Always+Learning;Turning+Ideas+into+Solutions+%F0%9F%A7%AA" alt="Typing SVG" />
+</p>
 
 ---
 
-## ðŸ› ï¸ Skills & Technologies
+### 💡 About Me
 
-[![Vibe Coding](https://img.shields.io/badge/Vibe%20Coding-NoCode-blue)](https://vibecoding.com)  
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-green?logo=openai)](https://chat.openai.com)  
-[![Gemini](https://img.shields.io/badge/Gemini-AI-blue?logo=google)](https://deepmind.google/technologies/gemini)  
-[![Bolt AI](https://img.shields.io/badge/Bolt.AI-Fast%20NoCode-purple)](https://boltai.tech)  
-[![Lovable](https://img.shields.io/badge/Lovable-AI%20Design-pink)](https://www.lovable.so)  
-[![Cursor](https://img.shields.io/badge/Cursor-AI%20Coding-lightgrey)](https://www.cursor.so)  
-[![CloudE.ai](https://img.shields.io/badge/CloudE.ai-Infra%20Automation-blueviolet)](https://cloude.ai)  
-[![VS Code](https://img.shields.io/badge/VS%20Code-DevTool-blue?logo=visualstudiocode)](https://code.visualstudio.com)  
-[![GitHub Copilot](https://img.shields.io/badge/Copilot-AI-black?logo=github)](https://github.com/features/copilot)  
-[![TradingView](https://img.shields.io/badge/TradingView-Charts-blue?logo=tradingview)](https://tradingview.com)
+I'm **Ezedin Abdu** (`@ezeleza`) — an **AI enthusiast**, **no-code app creator**, and a lifelong learner based in **Addis Ababa, Ethiopia**. I specialize in turning ideas into real-world tools using vibe coding, automation, and AI-enhanced workflows.
+
+I don’t just build apps — I build solutions that solve everyday problems. And if they look good doing it? Even better. 💼✨
 
 ---
 
-## ðŸ“ˆ GitHub Stats
+### 🚀 Projects I’m Cooking
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezeleza&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ezeleza&layout=compact&theme=radical)
-
----
-
-## ðŸŒŸ What Drives Me
-
-> *"Think differently, solve creatively."*  
-> I believe in leveraging smart tools to automate repetitive work and amplify productivity â€” so I can focus on building meaningful projects that make an impact.
+| Project | Description |
+|--------|-------------|
+| 🤖 **AI Trade Flip Tracker** | A real-time strategy tool using Gemini + ChatGPT + TradingView. Alerts, logic, automation — all in one. |
+| 🧩 **No-Code App for Local Challenges** | Built with Vibe Coding + Bolt.AI to solve practical problems fast — no heavy code needed. |
+| 🧠 **Prompt Stack Builder** *(coming soon)* | One-click prompt engines using Gemini, Cursor, and CloudE.ai for rapid AI workflows. |
 
 ---
 
-## ðŸŒ About Me
+### 🛠️ Tech Stack & Tools
 
-- Based in Addis Ababa, Ethiopia  
-- Forever curious about AI, automation, and how tech can improve everyday life  
-- Lifelong learner committed to growing my skills and sharing knowledge  
-- Focused on creating efficient, accessible solutions that empower others
-
----
-
-## ðŸ“« How to Reach Me
-
-Iâ€™m currently focused on building and learning, but feel free to connect with me directly:
-
-- ðŸ’¬ [Telegram: @Ezel_eza](https://t.me/Ezel_eza)
-- ðŸ¦ [Twitter/X: @ezaozaa](https://twitter.com/ezaozaa)
-- ðŸ’» Discord: `ezel0129_17865`
+<p align="left">
+  <img src="https://img.shields.io/badge/Vibe%20Coding-NoCode-blue" />
+  <img src="https://img.shields.io/badge/ChatGPT-OpenAI-green?logo=openai" />
+  <img src="https://img.shields.io/badge/Gemini-AI-blue?logo=google" />
+  <img src="https://img.shields.io/badge/Bolt.AI-Fast%20NoCode-purple" />
+  <img src="https://img.shields.io/badge/Cursor-AI%20Coding-lightgrey" />
+  <img src="https://img.shields.io/badge/CloudE.ai-Infra%20Automation-blueviolet" />
+  <img src="https://img.shields.io/badge/Lovable-AI%20Design-pink" />
+  <img src="https://img.shields.io/badge/VS%20Code-DevTool-blue?logo=visualstudiocode" />
+  <img src="https://img.shields.io/badge/Copilot-AI-black?logo=github" />
+  <img src="https://img.shields.io/badge/TradingView-Charts-blue?logo=tradingview" />
+</p>
 
 ---
 
-*Thanks for stopping by â€” feel free to explore my projects and reach out if something inspires you!*
+### 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ezeleza&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezeleza&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🧠 What I Believe
+
+> _“Think differently. Solve creatively. Build smart. Live free.”_
+
+I'm all about **building smart solutions** that save time, increase freedom, and create real value. Whether it's a no-code app or an AI-powered tool — I believe that **simplicity wins**.
+
+---
+
+### 🌀 Fun Mode: Activated
+
+```text
+AI whisperer by day, bug fixer by night 🧑‍💻  
+Making apps with zero-code and infinite coffee ☕  
+Professional button clicker 🔘 and tool stacker 🧰  
+Still waiting for my robot assistant 🤖  
