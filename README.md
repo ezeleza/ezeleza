@@ -1,64 +1,125 @@
-# 👋 Hello, I’m Ezedin Abdu (`@ezeleza`)
+<h1 align="center">Hey there, I'm Ezedin ðŸ‘‹</h1>
 
-I’m a passionate AI enthusiast and no-code innovator dedicated to turning ideas into practical solutions. With a strong focus on vibe coding and automation, I build impactful applications that solve real-world problems — all while continuously learning and experimenting with the latest tech.
-
----
-
-## 🚀 Current Projects
-
-- 🤖 **AI Trade Flip Tracker**  
-  Developing a real-time strategy tracker that combines Gemini AI, ChatGPT, and TradingView to deliver automated alerts and insights.
-
-- 🧩 **No-Code App for Local Challenges**  
-  Creating user-friendly applications with Vibe Coding and Bolt.AI to solve problems efficiently without complex code.
-
-- 🧠 **Prompt Stack Builder** *(Upcoming)*  
-  Integrating advanced AI tools like Gemini, Cursor, and CloudE.ai for streamlined, high-value prompt generation workflows.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=16F7FC&center=true&vCenter=true&width=500&lines=No-code+Innovator+%F0%9F%94%A5;AI+Builder+%7C+App+Maker+%7C+Always+Learning;Turning+Ideas+into+Solutions+%F0%9F%A7%AA" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🛠️ Skills & Technologies
+### ðŸ§  Quote of the Moment
 
-[![Vibe Coding](https://img.shields.io/badge/Vibe%20Coding-NoCode-blue)](https://vibecoding.com)  
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-green?logo=openai)](https://chat.openai.com)  
-[![Gemini](https://img.shields.io/badge/Gemini-AI-blue?logo=google)](https://deepmind.google/technologies/gemini)  
-[![Bolt AI](https://img.shields.io/badge/Bolt.AI-Fast%20NoCode-purple)](https://boltai.tech)  
-[![Lovable](https://img.shields.io/badge/Lovable-AI%20Design-pink)](https://www.lovable.so)  
-[![Cursor](https://img.shields.io/badge/Cursor-AI%20Coding-lightgrey)](https://www.cursor.so)  
-[![CloudE.ai](https://img.shields.io/badge/CloudE.ai-Infra%20Automation-blueviolet)](https://cloude.ai)  
-[![VS Code](https://img.shields.io/badge/VS%20Code-DevTool-blue?logo=visualstudiocode)](https://code.visualstudio.com)  
-[![GitHub Copilot](https://img.shields.io/badge/Copilot-AI-black?logo=github)](https://github.com/features/copilot)  
-[![TradingView](https://img.shields.io/badge/TradingView-Charts-blue?logo=tradingview)](https://tradingview.com)
+> _"The best way to predict the future is to build it." â€” Alan Kay_
 
 ---
 
-## 📈 GitHub Stats
+### ðŸ’¡ About Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezeleza&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ezeleza&layout=compact&theme=radical)
-
----
-
-## 🌟 What Drives Me
-
-> *"Think differently, solve creatively."*  
-> I believe in leveraging smart tools to automate repetitive work and amplify productivity — so I can focus on building meaningful projects that make an impact.
+I'm **Ezedin Abdu** (`@ezeleza`) â€” an **AI enthusiast**, **no-code app creator**, and **automation tinkerer** based in **Addis Ababa, Ethiopia**. I specialize in turning ideas into real-world tools using vibe coding and AI-enhanced workflows.
 
 ---
 
-## 🌍 About Me
+### ðŸŒŸ Featured Projects
 
-- Based in addis ababa, ethiopia
-- Forever curious about AI, automation, and how tech can improve everyday life  
-- Lifelong learner committed to growing my skills and sharing knowledge  
-- Focused on creating efficient, accessible solutions that empower others
+<p align="center">
+  <img src="https://via.placeholder.com/100x100.png?text=AI+Flip" width="80" />
+  <strong>AI Trade Flip Tracker</strong><br />
+  <sub>Gemini + ChatGPT + TradingView = Smart strategy alerts for smarter decisions</sub><br />
+  ðŸ”— <a href="#">View Repository</a>
+</p>
+
+<p align="center">
+  <img src="https://via.placeholder.com/100x100.png?text=NoCode" width="80" />
+  <strong>No-Code App for Local Challenges</strong><br />
+  <sub>Built with Vibe Coding and Bolt.AI for fast, scalable problem-solving</sub><br />
+  ðŸ”— <a href="#">View Repository</a>
+</p>
+
+<p align="center">
+  <img src="https://via.placeholder.com/100x100.png?text=Prompt+Stack" width="80" />
+  <strong>Prompt Stack Builder (Coming Soon)</strong><br />
+  <sub>Next-gen prompt engineering with Cursor, Gemini, CloudE.ai</sub><br />
+  ðŸš§ Under construction...
+</p>
 
 ---
 
-## 📫 How to Reach Me
+### ðŸ› ï¸ Tech Stack & Tools
 
-I’m currently focused on building and learning, so I keep my contact info private — but feel free to open issues or discussions on my GitHub repos!
+> Tools I use daily â€” and the AI assistants that keep me company:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,vscode,figma,python,js,html,css&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Vibe%20Coding-NoCode-blue" />
+  <img src="https://img.shields.io/badge/ChatGPT-OpenAI-green?logo=openai" />
+  <img src="https://img.shields.io/badge/Gemini-AI-blue?logo=google" />
+  <img src="https://img.shields.io/badge/Bolt.AI-Fast%20NoCode-purple" />
+  <img src="https://img.shields.io/badge/Cursor-AI%20Coding-lightgrey" />
+  <img src="https://img.shields.io/badge/CloudE.ai-Infra%20Automation-blueviolet" />
+</p>
 
 ---
 
-*Thanks for stopping by — feel free to explore my projects and reach out if something inspires you!*
+### ðŸ“ˆ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ezeleza&show_icons=true&theme=radical" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezeleza&layout=compact&theme=radical" />
+</p>
+
+---
+
+### â±ï¸ Latest GitHub Activity *(Automated)*
+
+- â¬†ï¸ Pushed to `AI-Flip-Tracker` â€” Added dynamic alert system  
+- ðŸ› ï¸ Updated `NoCode-App` â€” UI/UX optimization  
+- ðŸ“¦ Working on `Prompt Stack Builder` â€” Flow design in progress  
+
+---
+
+### ðŸ” "Now Playing"
+
+ðŸŽµ *Imagine a badge here showing your current Spotify song â€” adds personality*
+
+---
+
+### ðŸ§­ Mission & Mindset
+
+> *"Think differently. Solve creatively. Build smart. Live free."*
+
+I'm all about building **simple, smart tools** that save time, solve real problems, and give people more freedom â€” including me. I treat no-code like Lego: the goal is not just to build fast, but to build what matters.
+
+---
+
+### ðŸŒ€ Fun Mode: Activated
+
+```text
+AI whisperer by day, bug fixer by night ðŸ§‘â€ðŸ’»  
+Making apps with zero-code and infinite coffee â˜•  
+Professional button clicker ðŸ”˜ and tool stacker ðŸ§°  
+Still waiting for my robot assistant ðŸ¤–
+```
+
+---
+
+### ðŸ§  Currently Exploring
+
+- Python (for automating tasks + backend AI logic)  
+- Prompt engineering & LLM stacks  
+- Clean UI/UX and frictionless user flows  
+- Creating value-first digital tools
+
+---
+
+### ðŸ“« Reach Out
+
+Currently focused on learning and building. If you have feedback or want to explore my work, feel free to **open an issue or discussion** on any of my repos.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
